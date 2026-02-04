@@ -1,5 +1,5 @@
 ---
-name: Example Idea: Smart Meeting Notes
+name: "Example Idea: Smart Meeting Notes"
 status: draft
 owner: idea-maker
 tags: ["productivity", "ai", "meetings"]
