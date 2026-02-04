@@ -1,4 +1,0 @@
-interface:
-  display_name: "Idea Creator"
-  short_description: "Create clear, actionable idea entries"
-  default_prompt: "Use $idea-creator to draft a concise idea entry for a new product concept."
