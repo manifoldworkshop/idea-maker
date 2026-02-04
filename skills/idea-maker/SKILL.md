@@ -1,9 +1,9 @@
 ---
-name: idea-creator
+name: idea-maker
 description: Create, expand, and update idea entries in the ideas library, producing IDEA.md and optional supporting docs. Use when creating a new idea entry, expanding or editing an existing idea, or turning a rough concept into a clear execution guide.
 ---
 
-# Idea Creator
+# Idea Maker
 
 Use this skill to create or update idea entries in the `ideas/<idea-name>/` library. The output should be a structured `IDEA.md` and, when helpful, supporting docs in `references/`, `assets/`, or `files/`.
 

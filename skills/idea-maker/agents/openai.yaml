@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Maker"
+  short_description: "Create clear, actionable idea entries"
+  default_prompt: "Use $idea-maker to draft a concise idea entry for a new product concept."
