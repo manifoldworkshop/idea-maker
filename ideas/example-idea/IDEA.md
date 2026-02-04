@@ -2,6 +2,7 @@
 name: "Example Idea: Smart Meeting Notes"
 status: draft
 owner: idea-maker
+last_updated: 2026-02-04
 tags: ["productivity", "ai", "meetings"]
 complexity: medium
 impact: medium
