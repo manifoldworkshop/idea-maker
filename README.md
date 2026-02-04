@@ -1,6 +1,6 @@
 # Idea Maker
 
-This repository collects product ideas and the supporting skills used to create and maintain them.
+This repository collects ideas of all kinds (products, experiments, creative projects, joyful pursuits) and the supporting skills used to create and maintain them.
 
 ## Contents
 

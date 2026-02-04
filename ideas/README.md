@@ -1,6 +1,6 @@
 # Ideas
 
-This folder stores idea entries under `ideas/<idea-name>/`.
+This folder stores idea entries under `ideas/<idea-name>/`. Ideas can be products, experiments, personal projects, or anything worth exploring further.
 
 ## Add an idea (manual)
 

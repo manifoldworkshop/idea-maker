@@ -2,6 +2,7 @@
 name: <idea name>
 status: draft
 owner: <name or team>
+last_updated: <YYYY-MM-DD>
 tags: ["tag1", "tag2"]
 complexity: medium
 impact: medium
@@ -9,18 +10,20 @@ impact: medium
 
 # Summary
 
-# Problem
+## Optional sections (include only what fits)
 
-# Target Users
+# Motivation / Opportunity
 
-# Solution
+# Participants / Beneficiaries
 
-# Differentiation
+# Approach
 
-# Execution Plan
+# What Makes It Special
+
+# Next Steps
 
 # Risks & Unknowns
 
-# Success Metrics
+# Success Signals
 
 # References
